@@ -1,0 +1,10 @@
+This notebook was created in google colab and the data image used in this notebook, 
+from my drive as a disk as we deal with google colab it's easy to mount it to the drive.
+this notebook shows some data preparation, visualization, and solving a balancement class 
+that exists in data that I early download from Kaggle.
+And show the data augmentation part handled manually for see how really the data augmented through training 
+as a demo step. 
+
+note: data consists of 4 classes ['normal','monkeypox','chickenpox','measles'] ,and i dropped the measles
+class according to the its ratio against other classes.
+normal = 293 , monkeypox = 279 , chickenpox = 107 , measles = 17

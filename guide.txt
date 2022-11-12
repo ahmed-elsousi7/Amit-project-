@@ -1,0 +1,2 @@
+problem statement and proposed solution in 
+(Vgg16 weights with Random Forest classifier (main notebook)) notebook
